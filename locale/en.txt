@@ -1,0 +1,13 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_4C9C2659_5E6D_F5C3_41D1_58AD14C20874.label = frame_0500-Pano-2
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
